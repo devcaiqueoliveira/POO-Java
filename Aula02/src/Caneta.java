@@ -1,5 +1,3 @@
-import java.lang.invoke.SwitchPoint;
-
 public class Caneta {
         String modelo;
         String cor;
