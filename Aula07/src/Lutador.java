@@ -110,6 +110,7 @@ public class Lutador {
     }
 
     public void status() {
+        System.out.println("-----STATUS DO LUTADOR -----");
         System.out.println(this.getNome() + " é um " + this.getCategoria());
         System.out.println("Ganhou " + this.getVitorias() + " vezes");
         System.out.println("Perdeu " + this.getDerrotas() + " vezes");
